@@ -16,6 +16,23 @@
   }
 
   nav {
-      background-color:rgb(89, 87, 87);
       font-size: 20px;
   }
+
+  #photo {
+    height: auto;
+    width: auto;
+    max-height: 210px;
+    max-width: 270px;
+    border-radius: 50% 50%;
+    margin: 15px 80px 50px ;
+}
+
+#about{
+    color: blue;
+    text-align: left;
+}
+
+#subtitles{
+    color: blue;
+}
