@@ -47,4 +47,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 - Menu links work
 - Profile is size responsive
 
-[Link to homework website](https://enrique246.github.io/Profile/ "Profile Homepage")
+[Link to homework website](https://enrique246.github.io/profile-2/ "Profile Homepage")
