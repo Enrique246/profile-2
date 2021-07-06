@@ -37,7 +37,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Usage
 
-![ Mock Up Gif](./Big_image/02-advanced-css-homework-demo.gif)
+![ Mock Up Gif](Hnet-image.gif)
 
 ## Credits
 - Enrique Del Castillo Chávez
