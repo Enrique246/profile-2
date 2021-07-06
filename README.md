@@ -43,7 +43,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 - Enrique Del Castillo Chávez
 
 ## Tests
-- Porjects links work
+- Projects links work
 - Menu links work
 - Profile is size responsive
 
